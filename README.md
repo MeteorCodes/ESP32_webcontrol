@@ -8,7 +8,7 @@ ESP32基础web服务器控制
 >
 >>index.html
 >>
-<<open.html
+>>open.html
 >>
 >>close.html
 >
